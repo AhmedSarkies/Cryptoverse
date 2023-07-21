@@ -2,7 +2,7 @@
 
 ## To Clone the repo: git clone https://github.com/AhmedSarkies/Cryptoverse.git
 
-## then you should install the node modules via: `npm i` or `npm install`
+## Then you should install the node modules via: `npm i` or `npm install`
 
 ## Available Scripts
 
