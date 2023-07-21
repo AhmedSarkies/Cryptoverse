@@ -1,6 +1,4 @@
-# Demo
-
-(https://cryptoverse-sarkies.netlify.app/)
+[Demo](https://cryptoverse-sarkies.netlify.app/)
 
 To Clone the repo: git clone https://github.com/AhmedSarkies/Cryptoverse.git
 
