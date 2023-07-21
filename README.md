@@ -1,4 +1,4 @@
-# [Demo](https://cryptoverse-sarkies.netlify.app/){:target="_blank"}
+# [Demo](https://cryptoverse-sarkies.netlify.app/){:target="_blank"} 
 
 ## To Clone the repo: git clone https://github.com/AhmedSarkies/Cryptoverse.git
 
