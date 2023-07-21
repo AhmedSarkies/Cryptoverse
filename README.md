@@ -1,4 +1,4 @@
-[<h1>Demo</h1>](https://cryptoverse-sarkies.netlify.app/)
+<h1><a href="https://cryptoverse-sarkies.netlify.app/">Demo</a></h1>
 
 To Clone the repo: git clone https://github.com/AhmedSarkies/Cryptoverse.git
 
